@@ -3,8 +3,13 @@
 ## The design structure for reference
 ![image alt](https://github.com/saksham19rawat/SIMPLE-ALU/blob/main/PHOTOS/Screenshot%202025-07-10%20183946.png?raw=true)
 
+## Explanation
+
 The input are as we can see: A B and ALUControl
 Here only alucontrol is of 3 bit rest are single bit
+
+for mux_2 we use ternary operator 
+'condition ? true val : false val;'
 
 
 ## The verilog code
